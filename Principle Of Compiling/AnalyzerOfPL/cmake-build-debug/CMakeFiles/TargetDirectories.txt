@@ -1,0 +1,3 @@
+C:/Users/Stevenlvjq/CLionProjects/AnalyzerOfPL/cmake-build-debug/CMakeFiles/AnalyzerOfPL.dir
+C:/Users/Stevenlvjq/CLionProjects/AnalyzerOfPL/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Stevenlvjq/CLionProjects/AnalyzerOfPL/cmake-build-debug/CMakeFiles/rebuild_cache.dir
