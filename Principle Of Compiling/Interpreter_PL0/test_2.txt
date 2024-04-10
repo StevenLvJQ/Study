@@ -1,9 +1,0 @@
-Const MAX = 100;
-Var counter;
-Begin
-    counter := 0;
-    While counter < MAX Do
-    Begin
-        counter := counter + 1;
-    End
-End.
